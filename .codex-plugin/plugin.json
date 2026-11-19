@@ -1,0 +1,6 @@
+{
+  "name": "haopin-overseas-business-skills",
+  "version": "1.0.0",
+  "description": "好品出海：企业规划、视频文案批量生成与客户背调技能",
+  "skills": "./skills/"
+}
